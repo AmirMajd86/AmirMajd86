@@ -1,6 +1,6 @@
 
-<img src="./github-contribution-grid-snake.svg" alt="just for fun :D">
 <h2 align="center">Hi 👋 i'm Amir Majd 🤖</h2>
+<img src="./github-contribution-grid-snake.svg" alt="just for fun :D">
 
 ## Connect with me:
 <p align="left">
