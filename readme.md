@@ -8,7 +8,7 @@
 </p>
 
 ## Professional Skillset
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,mysql,laravel,cs,python,dotnet,wordpress&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,dotnet,csharp&theme=dark)](https://skillicons.dev)
 
 ## Tools I use
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github&theme=dark)](https://skillicons.dev)
