@@ -19,8 +19,8 @@
 ## My Activity:
 <p display="flex">
   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwldom&show_icons=true&bg_color=00000000)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwldom)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMajd89&show_icons=true&bg_color=00000000)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMajd89)
 
 </p>
 
